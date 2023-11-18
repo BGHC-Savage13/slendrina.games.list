@@ -1,0 +1,2 @@
+# slendrina.games.list
+list 
